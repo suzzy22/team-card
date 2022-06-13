@@ -1,0 +1,24 @@
+
+.team-name{
+    margin: 0 auto;
+    text-shadow: 2px 2px cyan;
+  animation-name: example;
+  animation-duration: 4s;
+}
+@keyframes example {
+    from {text-shadow:2px 2px blue;}
+    to {text-shadow: 2px 2px lightgreen;}
+  }
+
+.card{
+    border:none;
+    background: rgba(20, 20, 50, 0.8) ;
+}
+
+.card-body{
+    
+    color: white;
+}
+.row{
+    overflow-x: hidden;
+}
