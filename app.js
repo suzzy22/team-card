@@ -11,7 +11,7 @@ let membersDetails=[{
 
 },
 {
-    image:"/img/IMG-20220608-WA0000.jpg",
+    image:"img/IMG-20220608-WA0000.jpg",
     names:"Igah Abiyeh",
     age:21,
     BestFood:"Ewa Ago and Bread",
@@ -21,7 +21,7 @@ let membersDetails=[{
     track:"Frontend Beginner",  
 },
 {
-    image:"/img/sue (2).jpg",
+    image:"img/sue (2).jpg",
     names:"Susan Chepkosgei",
     age:22,
     BestFood:"Pilau and Chicken",
@@ -31,7 +31,7 @@ let membersDetails=[{
     track:"Frontend Beginner",
 },
 {
-    image:"/img/IMG-20220608-WA0005.jpg",
+    image:"img/IMG-20220608-WA0005.jpg",
     names:"Susan Mwende",
     age:21,
     BestFood:"Chips and Chicken",
@@ -41,7 +41,7 @@ let membersDetails=[{
     track:"Frontend Beginner",
 },
 {
-    image:"/img/IMG-20220608-WA0003.jpg",
+    image:"img/IMG-20220608-WA0003.jpg",
     names:"Amos Thibault BIKARI",
     age:23,
     BestFood:"Uburobe and Ndagara",
@@ -51,7 +51,7 @@ let membersDetails=[{
     track:"Frontend Beginner",
 },
 {
-    image:"/img/IMG-20220608-WA0001.jpg",
+    image:"img/IMG-20220608-WA0001.jpg",
     names:"Aladesuru Oriyomi",
     age:23,
     BestFood:"Pounded Yam and Okro",
@@ -61,7 +61,7 @@ let membersDetails=[{
     track:"Frontend Beginner",
 },
 {
-    image:"/img/IMG-20220608-WA0035.jpg",
+    image:"img/IMG-20220608-WA0035.jpg",
     names:"Izima Obisike",
     age:22,
     BestFood:"Eba and Egusi Soup",
@@ -71,7 +71,7 @@ let membersDetails=[{
     track:"Frontend Beginner",
 },
 {
-    image:"/img/oyindamola.jpg",
+    image:"img/oyindamola.jpg",
     names:"Oyindamola Ogunkunle",
     age:24,
     BestFood:"Amala with Abula",
