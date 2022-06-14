@@ -1,6 +1,6 @@
 
 let membersDetails=[{
-    image:"/img/IMG-20220608-WA0039.jpg",
+    image:"img/IMG-20220608-WA0039.jpg",
     names:"Austine Tonoyam",
     age:22,
     BestFood:"Spaghetti",
